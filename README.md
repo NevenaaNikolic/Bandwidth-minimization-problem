@@ -2,5 +2,5 @@
 Seminarski rad iz predmeta Naučno izračunavanje
 
 # Autori
-Luka Kalinić
+Luka Kalinić\n
 Nevena Nikolić
